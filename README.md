@@ -1,7 +1,4 @@
 ## Портфолио Data Science
-https://img.shields.io/badge/Python-3.8%252B-blue
-https://img.shields.io/badge/Data-Science-brightgreen
-https://img.shields.io/badge/Machine-Learning-orange
 
 ### Проекты
 HR аналитика: Прогнозирование удовлетворенности и текучести сотрудников
